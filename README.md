@@ -33,15 +33,19 @@ This project focuses on developing a machine learning classification model to pr
    - Fine-tuned hyperparameters to improve performance.
    
 6. **Model Evaluation**
-   - Validated models using precision, recall, F1 scores, and confusion matrices.
    - Compared multiple classifiers and identified the best-performing model.
+   - Validated models using precision, recall, F1 scores, and confusion matrices.
+
+![Image](https://github.com/user-attachments/assets/6cea1979-d6ab-4dce-b014-26286c248d2f)
 
 ---
 
 ## Key Insights
-- Identification of significant features impacting booking cancellations.
-- Visualization of booking trends revealed actionable insights for customer management strategies.
 - Comparison of various machine learning models highlighted the effectiveness of ensemble methods.
+- Visualization of booking trends revealed actionable insights for customer management strategies.
+- Identification of significant features impacting booking cancellations.
+
+![Image](https://github.com/user-attachments/assets/947297b4-c852-4f33-89e7-da966c6accfe)
 
 ---
 
