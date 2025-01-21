@@ -29,8 +29,7 @@ This project focuses on developing a machine learning classification model to pr
    - Split data into training, validation, and testing datasets.
 
 5. **Model Development**
-   - Implemented multiple classifiers including decision trees, support vector machines, and ensemble methods.
-   - Fine-tuned hyperparameters to improve performance.
+   - Implemented multiple tree-based classifiers.
    
 6. **Model Evaluation**
    - Compared multiple classifiers and identified the best-performing model.
