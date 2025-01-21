@@ -35,7 +35,7 @@ This project focuses on developing a machine learning classification model to pr
    - Compared multiple classifiers and identified the best-performing model.
    - Validated models using precision, recall, F1 scores, and confusion matrices.
 
-![Image](https://github.com/user-attachments/assets/6cea1979-d6ab-4dce-b014-26286c248d2f)
+![Image](https://github.com/user-attachments/assets/ae6de21c-c256-48d8-8dd7-6d78d52eb911)
 
 ---
 
