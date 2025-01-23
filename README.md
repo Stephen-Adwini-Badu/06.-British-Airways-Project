@@ -35,7 +35,40 @@ This project focuses on developing a machine learning classification model to pr
    - Compared multiple classifiers and identified the best-performing model.
    - Validated models using precision, recall, F1 scores, and confusion matrices.
 
-![Image](https://github.com/user-attachments/assets/ae6de21c-c256-48d8-8dd7-6d78d52eb911)
+<table align="center">
+<tr>
+  <th>MODEL</th>
+  <th>ACCURACY</th>
+  <th>PRECISION</th>
+  <th>RECALL</th>
+  <th>F1 SCORE</th>
+  <th>ROC-AUC</th>
+</tr>
+<tr>
+  <td>Random Forest Classifier</td>
+  <td align="center">77.0%</td>
+  <td align="center">23.0%</td>
+  <td align="center">21.0%</td>
+  <td align="center">22.0%</td>
+  <td align="center">54.0%</td>
+</tr>
+<tr>
+  <td>Gradient Boosting Classifier</td>
+  <td align="center">79.0%</td>
+  <td align="center">25.0%</td>
+  <td align="center">22.0%</td>
+  <td align="center">24.0%</td>
+  <td align="center">55.0%</td>
+</tr>
+<tr>
+  <td>X Gradient Boosting Classifier</td>
+  <td align="center">79.0%</td>
+  <td align="center">23.0%</td>
+  <td align="center">18.0%</td>
+  <td align="center">20.0%</td>
+  <td align="center">54.0%</td>
+</tr>
+</table>
 
 ---
 
