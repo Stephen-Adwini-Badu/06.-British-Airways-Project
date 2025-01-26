@@ -33,7 +33,7 @@ This project focuses on developing a machine learning classification model to pr
    
 6. **Model Evaluation**
    - Compared multiple classifiers and identified the best-performing model.
-   - Validated models using precision, recall, F1 scores, and confusion matrices.
+   - Validated models using accuracy, precision, recall, F1 and ROC-AUC scores.
 
 <table align="center">
  <tr>
@@ -70,6 +70,16 @@ This project focuses on developing a machine learning classification model to pr
  </tr>
 </table>
 
+   - ROC-AUC and Calibration Curves were also utilized
+
+![6 2](https://github.com/user-attachments/assets/17aea27c-ed58-4d32-83dc-3162dd0f9fa0)
+
+     
+   - Alongside Confusion matrices 
+
+![6 1](https://github.com/user-attachments/assets/5f401578-ef75-4679-9b78-6d49e79dd891)
+
+
 ---
 
 ## Key Insights
@@ -82,8 +92,7 @@ This project focuses on developing a machine learning classification model to pr
 ---
 
 ## Results
-- Achieved high prediction accuracy using ensemble classifiers.
-- Balanced models provided improved predictions for both successful bookings and cancellations.
+- Achieved high prediction accuracy only using ensemble classifiers but all other metrics were low.
 - Confusion matrix analysis highlighted reduced false positives and improved precision.
 
 ---
