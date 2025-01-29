@@ -1,4 +1,4 @@
-# British Airways Project Notebook
+# British Airways Project 
 
 ## Project Overview
 This project focuses on developing a machine learning classification model to predict customer behavior, specifically distinguishing between customers who successfully book flights and those who cancel. By leveraging data analysis techniques, the project aims to improve decision-making and enhance customer retention strategies for British Airways.
@@ -72,8 +72,7 @@ This project focuses on developing a machine learning classification model to pr
 
    - ROC-AUC and Calibration Curves were also utilized
 
-![6 2](https://github.com/user-attachments/assets/17aea27c-ed58-4d32-83dc-3162dd0f9fa0)
-
+![6 1](https://github.com/user-attachments/assets/ed3cffe2-68e5-4efb-ae46-0c3e274f3d7b)
      
    - Alongside Confusion matrices 
 
